@@ -66,7 +66,10 @@ TOEFL CRACK
 * First three days
     * 认真限时做2-3套真题的阅读和听力部分，**依照正确率估到目前水平**
     * 集中背单词，优先学科词汇
-
+* last two-week
+    * writing & oral daily
+* last one-week
+    * simualtion practice
 
 # Reading
 * TPO practice
@@ -84,7 +87,58 @@ TOEFL CRACK
     * (Newspaper) Virginia Tech
         * The Burgers 
         * Roanoke Times
+    * (Handbook Novel) Mark Twain - easy, interesting and fit for long-immersed reading
 
 
 
-# 
+# Listening
+* 重点：
+    * 听力专注持久度
+    * 学科词汇
+    * 连读
+* 有条理做笔记
+    * 普遍做法，知乎教程
+    * Jet没有做笔记，认为会干扰思路，随便鬼画符而已
+* TPO pratice
+    * 边角时间
+    * 反复听，一句句听，磨耳朵；起步阶段听到4遍+
+    * 后期快放1.2倍速听
+    * 作息调整，一部分时间在家外放做听力，保护耳膜
+* non TPO Pratice
+    * radio
+    * podcast radio
+    * youtube
+        * [Ellen Show](https://www.youtube.com/user/TheEllenShow)
+        * [Jimmy Kimmel Show](https://www.youtube.com/user/JimmyKimmelLive)
+    * hulu (download substitues of specific episode for revisit)
+        * Modern Family
+        * The Friends
+        * The Family Guy
+        * Grace the intern
+        * [The bare Bears]()
+* everyday practice
+    * attending VT lectures
+
+# Oral
+
+* [template]()
+* non-TPO
+    * hulu (as listed before)
+    * youtube
+        * pronoucation
+* daily opportunity
+    * Bible study
+    * happy Friday eat-out
+    * customer service call
+
+
+
+
+# Writing
+* Blind Type, recommend 50+ word per min, [online test](https://10fastfingers.com/typing-test/english) could help to dedicate correcting typos.
+* Intergrated Writing 
+    * is nothing but **recitation**, note as much as possible when listening.
+    * [template]()
+* Issue Writing
+    * same as GRE issue writing
+    * [vocabulary substitute table]()
