@@ -70,6 +70,9 @@ TOEFL CRACK
     * writing & oral daily
 * last one-week
     * simualtion practice
+* planning reference
+    * 一亩三分地
+    * zhihu
 
 # Reading
 * TPO practice
@@ -77,7 +80,7 @@ TOEFL CRACK
     * 这样先看题后看文章好处是做题快，但是最后一题需要多花时间
 * non-TPO practice
     * Apps 
-        * ios News (with subscrption to interesting channels)
+        * iOS News (with subscrption to interesting channels)
         * Google News
         * Medium
     * Online News
@@ -112,10 +115,19 @@ TOEFL CRACK
         * [Jimmy Kimmel Show](https://www.youtube.com/user/JimmyKimmelLive)
     * hulu (download substitues of specific episode for revisit)
         * Modern Family
+        * [The Bare Bears]()
         * The Friends
         * The Family Guy
         * Grace the intern
-        * [The bare Bears]()
+        * [Key & Peele](https://www.hulu.com/series/key-peele-cf07f2ab-45d6-43c8-ad39-f63215072b0e)
+    * [Amazon Prime](https://www.amazon.com/gp/video/storefront/ref=atv_hm_hom_1_slct?contentType=home&filterId=OFFER_FILTER%3DALL)  
+        * superman
+        * batman
+        * popeye
+        * [The Marverlous Mrs. Maisel](https://www.amazon.com/gp/video/detail/B06X9579J1/ref=atv_hm_hom_1_c_obwan_2_1) 
+    * Dnvod
+        * iteration top films， [douban top 250](https://movie.douban.com/top250)
+        
 * everyday practice
     * attending VT lectures
 
@@ -141,4 +153,5 @@ TOEFL CRACK
     * [template]()
 * Issue Writing
     * same as GRE issue writing
+    * [template]()
     * [vocabulary substitute table]()
