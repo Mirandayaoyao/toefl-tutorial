@@ -58,7 +58,7 @@ TOEFL CRACK
 * 张红岩 - 词以类记
     * 学科词汇重点，一周内背完
     * 非学科词汇GRE大多有涉及
-* pdf version
+* [pdf version](https://www.dropbox.com/s/o9lzbu34bfv7ngz/toefl-words%20copy.pdf?dl=0)
 * 要求 - 全部熟练掌握
 
 
@@ -66,6 +66,10 @@ TOEFL CRACK
 * First three days
     * 认真限时做2-3套真题的阅读和听力部分，**依照正确率估到目前水平**
     * 集中背单词，优先学科词汇
+* First week
+    * crack vocabulary
+* pratice
+    * 90% TPO & others
 * last two-week
     * writing & oral daily
 * last one-week
@@ -79,6 +83,7 @@ TOEFL CRACK
 * 推荐练习先看题再看文章，阅读题目也是按照顺序出题  
     * 这样先看题后看文章好处是做题快，但是最后一题需要多花时间
 * non-TPO practice
+    * [How stuff works](https://www.howstuffworks.com/), similiar level.
     * Apps 
         * iOS News (with subscrption to interesting channels)
         * Google News
@@ -108,9 +113,13 @@ TOEFL CRACK
     * 后期快放1.2倍速听
     * 作息调整，一部分时间在家外放做听力，保护耳膜
 * non TPO Pratice
+    * [BBC 6-min English](http://www.bbc.co.uk/learningenglish/english/features/6-minute-english), subtitile available, available on iOS Podcast
+    * [60-second-science](https://www.scientificamerican.com/podcast/60-second-science/),subtitile available, available on iOS Podcast
+
     * radio
-    * podcast radio
+        * [npr](https://www.npr.org/), convey various channel, available on iOS Podcast
     * youtube
+        * [how stuff works](https://www.youtube.com/channel/UCa35qyNpnlZ_u8n9qoAZbMQ), also available on iOS Podcast.
         * [Ellen Show](https://www.youtube.com/user/TheEllenShow)
         * [Jimmy Kimmel Show](https://www.youtube.com/user/JimmyKimmelLive)
     * hulu (download substitues of specific episode for revisit)
@@ -138,6 +147,11 @@ TOEFL CRACK
     * hulu (as listed before)
     * youtube
         * pronoucation
+            * [Rachel](https://www.youtube.com/feed/subscriptions/UCvn_XCl_mgQmt3sD753zdJA)
+            * [Elemental English](https://www.youtube.com/feed/subscriptions/UC2zQDH2yG55rf3kU8cYXQSQ)
+        * [channel C](https://www.youtube.com/channel/UCbKRW-R6H2vHgld_HKwcliw), daily English
+        * [阿滴](https://www.youtube.com/channel/UCeo3JwE3HezUWFdVcehQk9Q)
+        * [滴妹]()
 * daily opportunity
     * Bible study
     * happy Friday eat-out
@@ -154,4 +168,6 @@ TOEFL CRACK
 * Issue Writing
     * same as GRE issue writing
     * [template]()
-    * [vocabulary substitute table]()
+    * [vocabulary substitute table](https://www.dropbox.com/s/l5f1exu7fzlf9ya/wordsub.docx?dl=0)
+# 机经
+考前两天看
